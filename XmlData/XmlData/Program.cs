@@ -54,7 +54,7 @@ namespace XmlData
             xmlPrices.Load(string.Format("{0}prices{1}.xml", ConfigurationManager.AppSettings["RootPath"], index));
 
             Console.WriteLine("Accessing DB...");
-            SqlConnection connection = new SqlConnection(string.Format("Server=localhost;Integrated security=SSPI;database={0}", ConfigurationManager.AppSettings["Database"]));
+            SqlConnection connection = new SqlConnection(string.Format("Server={0};Integrated security=SSPI;database={1}", ConfigurationManager.AppSettings["ServerDatabase"], ConfigurationManager.AppSettings["Database"]));
             try
             {
                 string querySearch = "IF NOT EXISTS (SELECT * FROM Stations WHERE IdStation=@IdStation) BEGIN INSERT INTO Stations(IdStation, Name, Location) VALUES (@IdStation, @Name, @Location) END";
