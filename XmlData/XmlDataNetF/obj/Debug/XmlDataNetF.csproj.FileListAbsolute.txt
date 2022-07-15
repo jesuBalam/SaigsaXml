@@ -1,0 +1,10 @@
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\bin\Debug\XmlDataNetF.exe.config
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\bin\Debug\XmlDataNetF.exe
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\bin\Debug\XmlDataNetF.pdb
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\obj\Debug\XmlDataNetF.csprojAssemblyReference.cache
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\obj\Debug\XmlDataNetF.csproj.CoreCompileInputs.cache
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\obj\Debug\XmlDataNetF.exe
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\obj\Debug\XmlDataNetF.pdb
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\bin\Debug\DocumentFormat.OpenXml.dll
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\bin\Debug\DocumentFormat.OpenXml.xml
+E:\Developer\Hiuman\C#\XmlData\XmlDataNetF\XmlDataNetF\XmlDataNetF\obj\Debug\XmlDataNetF.csproj.CopyComplete
